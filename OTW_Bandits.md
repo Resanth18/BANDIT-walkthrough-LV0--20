@@ -1,12 +1,11 @@
 ## Over the Wire: Bandit
 
-- If you know a command, but don’t know how to use it, try the manual (man page) by entering “man <command>” (without the quotes). 
-- If there is no man page, the command might be a shell built-in. In that case use the “help <X>” command.
+HERE IT IS A SIMPLE AND EASY WALKTHROUGH FOR BANDIT LEVEL 0->20
 ___
 # Level 0
 **To ssh onto a server**
 ~~~
-ssh {user}@{Host} -p {port_no}
+ssh bandit0@bandit.labs.overthewire.org -p 2220
 ~~~
 **SSH (Secure Socket Shell)**
 Secure Shell (SSH) is a cryptographic protocol that provides communications security over a computer network, connecting an SSH client application with an SSH server. It is typically used to access shell accounts on remote servers. Shell accounts are typically available on Linux systems (but not only) and provide a user interface to the operating system’s services for the purpose of system management.
