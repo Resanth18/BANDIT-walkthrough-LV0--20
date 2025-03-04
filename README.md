@@ -1,6 +1,16 @@
-## Over the Wire: Bandit
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212746330-5734f116-b0f2-44df-9542-0db3b5169f61.gif">
+</p>
 
-HERE IT IS A SIMPLE AND EASY WALKTHROUGH FOR BANDIT LEVEL 0->20
+<h1 align="center"> OverTheWire Bandit Walkthrough (Levels 0-20) </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Resanth18/BANDIT-walkthrough-LV0--20?color=yellow&label=Stars&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Resanth18/BANDIT-walkthrough-LV0--20?color=blue&label=Forks&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Resanth18/BANDIT-walkthrough-LV0--20?color=red&label=Issues&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Resanth18/BANDIT-walkthrough-LV0--20?color=green&label=License&style=for-the-badge">
+</p>
+
 ___
 # Level 0
 **To ssh onto a server**
