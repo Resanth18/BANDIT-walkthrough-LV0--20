@@ -4,12 +4,6 @@
 
 <h1 align="center"> OverTheWire Bandit Walkthrough (Levels 0-20) </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Resanth18/BANDIT-walkthrough-LV0--20?color=yellow&label=Stars&logo=github&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/Resanth18/BANDIT-walkthrough-LV0--20?color=blue&label=Forks&logo=github&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/Resanth18/BANDIT-walkthrough-LV0--20?color=red&label=Issues&logo=github&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/Resanth18/BANDIT-walkthrough-LV0--20?color=green&label=License&style=for-the-badge">
-</p>
 
 ___
 # Level 0
